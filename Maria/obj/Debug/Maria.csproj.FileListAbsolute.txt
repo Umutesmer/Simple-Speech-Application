@@ -1,0 +1,27 @@
+C:\Users\Umut\Desktop\Maria\Maria\bin\Debug\Maria.exe.config
+C:\Users\Umut\Desktop\Maria\Maria\bin\Debug\Maria.exe
+C:\Users\Umut\Desktop\Maria\Maria\bin\Debug\Maria.pdb
+C:\Users\Umut\Desktop\Maria\Maria\obj\Debug\Maria.csprojResolveAssemblyReference.cache
+C:\Users\Umut\Desktop\Maria\Maria\obj\Debug\Maria.Form1.resources
+C:\Users\Umut\Desktop\Maria\Maria\obj\Debug\Maria.Properties.Resources.resources
+C:\Users\Umut\Desktop\Maria\Maria\obj\Debug\Maria.csproj.GenerateResource.Cache
+C:\Users\Umut\Desktop\Maria\Maria\obj\Debug\Maria.exe
+C:\Users\Umut\Desktop\Maria\Maria\obj\Debug\Maria.pdb
+C:\Users\umuth\Desktop\Maria\Maria\bin\Debug\Maria.exe.config
+C:\Users\umuth\Desktop\Maria\Maria\obj\Debug\Maria.exe
+C:\Users\umuth\Desktop\Maria\Maria\obj\Debug\Maria.pdb
+C:\Users\umuth\Desktop\Maria\Maria\bin\Debug\Maria.exe
+C:\Users\umuth\Desktop\Maria\Maria\bin\Debug\Maria.pdb
+C:\Users\umuth\Desktop\Maria\Maria\obj\Debug\Maria.csprojResolveAssemblyReference.cache
+C:\Users\umuth\Desktop\Maria\Maria\obj\Debug\Maria.Form1.resources
+C:\Users\umuth\Desktop\Maria\Maria\obj\Debug\Maria.Properties.Resources.resources
+C:\Users\umuth\Desktop\Maria\Maria\obj\Debug\Maria.csproj.GenerateResource.Cache
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\bin\Debug\Maria.exe.config
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\bin\Debug\Maria.exe
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\bin\Debug\Maria.pdb
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\obj\Debug\Maria.csprojResolveAssemblyReference.cache
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\obj\Debug\Maria.Form1.resources
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\obj\Debug\Maria.Properties.Resources.resources
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\obj\Debug\Maria.csproj.GenerateResource.Cache
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\obj\Debug\Maria.exe
+C:\Users\umuth\Desktop\Yeni klasör\Çalışmalar\C#\Maria\Maria\obj\Debug\Maria.pdb
